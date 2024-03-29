@@ -1,0 +1,1 @@
+# Azure-Cloud-Detection-using-Sentinel-main
