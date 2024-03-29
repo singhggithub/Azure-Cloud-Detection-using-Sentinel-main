@@ -1,0 +1,2 @@
+Security Event
+| where EventID == 4698
